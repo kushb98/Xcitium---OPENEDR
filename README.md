@@ -35,10 +35,6 @@ Follow these steps to set up and explore Xcitium OpenEDR:
    - Explore and manage endpoint data through the cloud manager.
    - Conduct malware scans, view results, and manage patches.
 
-## Contribution Guidelines
-
-We welcome contributions to enhance and expand this project. If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
