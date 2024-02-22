@@ -1,6 +1,6 @@
 # Xcitium OpenEDR Endpoint Security
 
-Welcome to the Xcitium OpenEDR Endpoint Security project! This repository contains resources and documentation related to the hands-on lab on protecting endpoints with Xcitium OpenEDR.
+Welcome to the Xcitium OpenEDR Endpoint Security project! This repository contains resources and documentation related to the hands-on project on protecting endpoints with Xcitium OpenEDR.
 
 ## Overview
 
