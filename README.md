@@ -8,7 +8,7 @@ Xcitium OpenEDR is an open-source endpoint protection and response (EDR) system 
 
 <p align="center">
   <img src="/Xcitium/logo.png" alt="Xcitium OpenEDR Logo">
-</p> !
+</p>
 
 ## Project Objectives
 
