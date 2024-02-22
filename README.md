@@ -14,6 +14,8 @@ Xcitium OpenEDR is an open-source endpoint protection and response (EDR) system 
 - Implement endpoint patches and perform patch management.
 - Conduct malware scans and analyze results through the cloud manager.
 
+## Project Overview
+
 ## Prerequisites
 
 - A device with admin access (Windows, macOS, Linux, iOS, or Android).
@@ -34,10 +36,6 @@ Follow these steps to set up and explore Xcitium OpenEDR:
 3. **Manage Endpoint Security:**
    - Explore and manage endpoint data through the cloud manager.
    - Conduct malware scans, view results, and manage patches.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
