@@ -6,7 +6,7 @@ Welcome to the Xcitium OpenEDR Endpoint Security project! This repository contai
 
 Xcitium OpenEDR is an open-source endpoint protection and response (EDR) system designed to defend endpoints from malware and various threats. This project focuses on practical aspects of managing and protecting endpoints using Xcitium OpenEDR.
 
-![Xcitium OpenEDR Logo](/xcitium/logo.png)
+![Xcitium OpenEDR Logo](/Xcitium/logo.png)
 
 ## Project Objectives
 
